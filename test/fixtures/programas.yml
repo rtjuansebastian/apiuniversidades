@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  codigo_snies: MyString
+  costos: 1.5
+  numero_semestres: 1
+  correo_contacto: MyString
+  universidad: one
+  sede: one
+  nucleos_basicos_conocimiento: one
+  nivel: one
+  modalidad: one
+  jornada: one
+
+two:
+  nombre: MyString
+  codigo_snies: MyString
+  costos: 1.5
+  numero_semestres: 1
+  correo_contacto: MyString
+  universidad: two
+  sede: two
+  nucleos_basicos_conocimiento: two
+  nivel: two
+  modalidad: two
+  jornada: two

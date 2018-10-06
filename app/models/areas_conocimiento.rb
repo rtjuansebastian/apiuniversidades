@@ -1,0 +1,2 @@
+class AreasConocimiento < ApplicationRecord
+end

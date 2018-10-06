@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  ciudad: one
+  acreditacion_institucional: false
+  caracter: one
+  direccion: MyString
+  logo: MyText
+
+two:
+  nombre: MyString
+  ciudad: two
+  acreditacion_institucional: false
+  caracter: two
+  direccion: MyString
+  logo: MyText
